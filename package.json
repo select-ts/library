@@ -1,0 +1,8 @@
+{
+    "name": "select",
+    "description": "DOM API simplifying library.",
+    "types": [
+        "./lib/html.d.ts",
+        "./lib/query.d.ts"
+    ]
+}

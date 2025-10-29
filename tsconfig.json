@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "moduleResolution": "bundler",
+        "target": "esnext",
+        "lib": ["ESNext", "DOM", "DOM.Iterable"],
+        "removeComments": true,
+        "newLine": "lf",
+        "outDir": "./lib",
+        "declaration": true,
+        "strictNullChecks": true
+    },
+    "include": [
+        "./src"
+    ]
+}
